@@ -8,7 +8,7 @@ mvn clean spring-boot:run
 spring.datasource.url=jdbc:h2:mem:grade-submission
 
 # Postman
-![Alt Text](Rest-API-Development/POSTMAN.png)
+![Alt Text](https://github.com/dhillonajender/Rest-API-Development/blob/master/POSTMAN.png?raw=true))
 
 
 # H2 Console
