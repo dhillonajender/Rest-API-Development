@@ -1,5 +1,5 @@
 # Rest-API-Development
-Built Student Grade Portal where multiple Rest APIs are being built to develop one to many and many to many relationships between Students, Courses and Grades Tables to allocate/modify a grade to students for multiple courses. Used Spring Boot and H2 database to build the below mentioned APIs and Postman for API testing.
+Developed a Student Grade Portal that incorporates various REST APIs to establish relationships between Student, Course, and Grade tables. The system enables the allocation and modification of grades for multiple courses. Utilized Spring Boot and H2 database to develop the APIs, and Postman for testing purposes.
 
 # Command to run spring boot app
 ### `mvn clean spring-boot:run`
